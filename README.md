@@ -1,8 +1,8 @@
-### ¡Hello! 👋 Welcome to my Github, where you will find some projects in Data Analysis, Machine Learning and Deep Learning 😄🖥️🖱️
-#### Repository Explanation: 
-1) DA --> Data Analysis project
-2) ML --> Machine Learning project
-3) DL --> Deep Learning project
+## ¡Hello! 👋 Welcome to my Github, where you will find some projects in Data Analysis, Machine Learning and Deep Learning 😄🖥️🖱️
+### Repository Explanation: 
+### 1) DA --> Data Analysis project
+### 2) ML --> Machine Learning project
+### 3) DL --> Deep Learning project
 
 
 - 🔭 I’m currently working on a NLP project that analyse the social network of any company with a Twitter, Instagram or facebook account.
