@@ -3,6 +3,7 @@
 ### 1) DA --> Data Analysis project
 ### 2) ML --> Machine Learning project
 ### 3) DL --> Deep Learning project
+### 4) CV --> Computer Vision project
 
 - 🔭 I’m currently working on a NLP project that analyse the social network of any company with a Twitter, Instagram or facebook account.
 - 🌱 I’m currently learning Deep Learning LSTM models.
